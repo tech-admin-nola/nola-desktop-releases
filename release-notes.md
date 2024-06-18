@@ -1,5 +1,5 @@
 # Release Notes  
 
-# Ver 1.0.7
+# Ver 1.0.8
 
-- Adding auto-update flow
+- Adding logs to debug
