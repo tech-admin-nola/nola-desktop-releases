@@ -1,5 +1,7 @@
 # Release Notes  
 
-# Ver 1.0.8
+# Ver 1.0.9
 
-- Adding logs to debug
+- Creating reconnecting flow when there is no connection
+- Allowing print refund transactions
+- Preventing app crashes
