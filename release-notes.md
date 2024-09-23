@@ -1,7 +1,7 @@
 # Release Notes  
 
-# Ver 1.0.13
+# Ver 1.0.14
 
-- Removing possibility to create transactions via nola desktop
-- Removing USB dependency to allow it to works in windows 7
-- Adding new sub text in history and changing copy to "Estornar" instead of "Cancelar" to be more assertive.
+- Removing unnecessary async awaits 
+- Creating verify paymentStatus function to avoid conclude transactions with deleted payments
+- Creating timeout function to prevent too long transactions after 1:20 minutes
