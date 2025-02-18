@@ -1,6 +1,5 @@
 # Release Notes  
 
-# Ver 1.0.16
-- Saving currentVersion and lastPing in db
-- Improved sitef events function naming for better clarity
-- Fixed issue with finish-transaction event firing multiple times
+# Ver 1.0.17
+- Solving bug when print transaction from history to other acquires which was not "REDE"
+- Adding a new env variable to control the current App version.
